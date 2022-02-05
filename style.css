@@ -43,6 +43,11 @@
     position: relative;
     top: 7px;
   }
+code{
+    background-color: #f4f4f4;
+    padding: 10px;
+    border-radius: 5px;
+  }
   #navbar ul{
     overflow:scroll;
     overflow-x: hidden;
